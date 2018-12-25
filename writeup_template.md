@@ -171,6 +171,5 @@ The basic navigation logic works well. It can stay on the navigational path well
 
 Here's the result of an autonomous run I made.
 
-[](Report\provided_data\mapping_autonomous.jpg)
-
+![mapping_autonomous](mapping_autonomous.jpg)
 

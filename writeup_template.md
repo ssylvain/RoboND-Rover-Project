@@ -167,10 +167,6 @@ This is basically the same as the previous step. Some of the name are changed bu
 
 #### 2. Launching in autonomous mode your rover can navigate and map autonomously.  Explain your results and how you might improve them in your writeup.  
 
-**Note: running the simulator with different choices of resolution and graphics quality may produce different results, particularly on different machines!  Make a note of your simulator settings (resolution and graphics quality set on launch) and frames per second (FPS output to terminal by `drive_rover.py`) in your writeup when you submit the project so your reviewer can reproduce your results.**
-
-Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
-
 The basic navigation logic works well. It can stay on the navigational path well. The logic can be extended to take into account the area already surveyed and navigate torward an area that wasn't visited yet.
 
 

@@ -169,4 +169,8 @@ This is basically the same as the previous step. Some of the name are changed bu
 
 The basic navigation logic works well. It can stay on the navigational path well. The logic can be extended to take into account the area already surveyed and navigate torward an area that wasn't visited yet.
 
+Here's the result of an autonomous run I made.
+
+[](Report\provided_data\mapping_autonomous.jpg)
+
 
